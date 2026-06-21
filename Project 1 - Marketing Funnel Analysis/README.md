@@ -48,6 +48,9 @@ The analyzed campaigns generated approximately $5,288 in simulated revenue.
 - Improve checkout flow to reduce purchase abandonment.
 - Continue optimizing the mobile experience due to the high proportion of mobile visitors.
 - Test underperforming acquisition channels using new creatives and audience targeting.
+## Dashboard Preview
+<img width="803" height="603" alt="Marketing Funnel Analysis- Looker Studio Screenshot" src="https://github.com/user-attachments/assets/c934f788-92b9-4f26-a7e1-fb7d2066eb96" />
+
 ## Skills Demonstrated
 - Marketing Analytics
 - Marketing Funnel Analysis
