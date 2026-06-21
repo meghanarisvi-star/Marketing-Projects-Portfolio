@@ -60,6 +60,7 @@ The analyzed campaigns generated approximately $5,288 in simulated revenue.
 - Marketing Insights
 - Business Recommendations
 - Data Visualization
+
 ## Future Improvements
 - Future versions could include:
 - ROAS analysis
