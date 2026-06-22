@@ -44,6 +44,7 @@ Only 64 out of 500 visitors completed a purchase, resulting in a conversion rate
 - Revenue
 The analyzed campaigns generated approximately $5,288 in simulated revenue.
 ## Recommendations
+- Improve conversion efficiency by optimizing the checkout flow and reducing friction at the final stage of the funnel. Additionally, introduce retargeting strategies for users who abandon the cart to recover lost conversions.
 - Increase investment in Instagram campaigns because it delivers the highest visitor volume.
 - Improve checkout flow to reduce purchase abandonment.
 - Continue optimizing the mobile experience due to the high proportion of mobile visitors.
