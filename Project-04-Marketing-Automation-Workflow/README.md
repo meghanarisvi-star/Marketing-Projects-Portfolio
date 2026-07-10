@@ -48,8 +48,13 @@ My responsibilities included:
 - Supporting marketing and sales collaboration
 - Creating reporting dashboards
 - Documenting the complete implementation
-## Solution Overview
 
+## Solution Overview
+The proposed solution replaces a manual lead management process with an automated workflow that connects lead capture, CRM management, team notifications, and reporting.
+
+New marketing leads are first captured in a structured database, automatically synchronized with the CRM, and shared with the sales team through workflow automation. This reduces repetitive manual tasks while improving lead visibility and response time.
+
+The solution was designed using free or community versions of industry-standard marketing operations tools to demonstrate a practical and scalable workflow.
 ## Workflow Architecture
 
 ## Tools Used
